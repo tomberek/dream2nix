@@ -1,0 +1,36 @@
+{
+  "_generic": {
+    "defaultPackage": "default",
+    "invalidationHash": "7b7654ad8cdf551c1acf42b5f5397d79303d303a6c2bab1eca78e18c1d3043da",
+    "location": "",
+    "packages": {
+      "default": "1"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "vscode",
+    "translatorArgs": ""
+  },
+  "_subsystem": {
+    "ms-python.pylint": {
+      "2022.3.11671003": {
+        "name": "pylint",
+        "publisher": "ms-python",
+        "sha256": "1vhy3jh2wx4bx48sn1k584bgnwjq0m4ckp7wkkh0frc6acpilp2k",
+        "version": "2022.3.11671003"
+      }
+    },
+    "ms-python.python": {
+      "2022.9.11681004": {
+        "name": "python",
+        "publisher": "ms-python",
+        "sha256": "1nw9ns0dml7wlyzmsqvykbbs2f0i9v9kpg3qlin7g834nn9nnjql",
+        "version": "2022.9.11681004"
+      }
+    }
+  },
+  "sources": {
+    "default": {
+      "1": {}
+    }
+  }
+}

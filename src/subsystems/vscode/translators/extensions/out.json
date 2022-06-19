@@ -1,0 +1,14 @@
+{
+  "name": "pylint",
+  "url": "https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/pylint/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+  "publisher": "ms-python",
+  "version": "2022.3.11671003",
+  "sha256": "1vhy3jh2wx4bx48sn1k584bgnwjq0m4ckp7wkkh0frc6acpilp2k"
+}
+{
+  "name": "python",
+  "url": "https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/python/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+  "publisher": "ms-python",
+  "version": "2022.9.11681004",
+  "sha256": "1nw9ns0dml7wlyzmsqvykbbs2f0i9v9kpg3qlin7g834nn9nnjql"
+}
